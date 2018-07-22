@@ -26,7 +26,5 @@ int main()
         cout << "Input catalan N: ";
         cin >> N;
         cout << catalan(N);
-
-        system("pause");
 }
 
